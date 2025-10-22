@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment files
+.env*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Videos (optional - remove if you want to include videos)
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Images (optional - remove if you want to include images)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
